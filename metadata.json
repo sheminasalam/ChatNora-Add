@@ -1,0 +1,8 @@
+{
+  "name": "ChatNora",
+  "description": "ChatNora: On-device universal WhatsApp message and notification translation system using Android AccessibilityService and ML Kit",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
